@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FlorianLebecque&theme=onestar" width="786">
+  <img src="https://github-profile-trophy.vercel.app/?username=FlorianLebecque&theme=transparent">
 </p>
